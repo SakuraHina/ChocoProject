@@ -1,0 +1,6 @@
+ChocoPro成立纪念
+完成事件：
+1、choco灵感来源于付尧的QQ名，反正没什么好的想法，暂定
+2、注册了统一的github账号共享使用:chocoproject@hotmail.com
+3、暂定前端框架:cocos2dx 后端:web.py B/S结构
+...这是测试文件

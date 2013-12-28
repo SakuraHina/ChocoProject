@@ -1,4 +1,3 @@
 ChocoProject
 ============
-welcome
-ChocoProject
+Welcome to ChocoProject
